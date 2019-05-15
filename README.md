@@ -27,3 +27,4 @@ majeedyaseen, majeed@trialx.com
 ## License
 
 BlinkingLabel is available under the MIT license. See the LICENSE file for more info.
+# BlinkingLabel.
